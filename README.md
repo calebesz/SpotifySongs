@@ -1,6 +1,6 @@
-# Análise de Dados: 114000 Spotify Songs
+# Análise de Dados Python: 114000 Spotify Songs
 
-Neste estudo, realizarei uma análise da base de dados **"114000 Spotify Songs"**, que contém uma vasta coleção de músicas disponíveis na plataforma. O objetivo é explorar as diferentes categorias de músicas e obter insights valiosos a partir desses dados. Para isso, vamos responder a algumas perguntas importantes de negócio:
+Neste estudo, realizarei uma análise da base de dados **"114000 Spotify Songs"** utilizando Python, esse dataset contém uma vasta coleção de músicas disponíveis na plataforma. O objetivo é explorar as diferentes categorias de músicas e obter insights valiosos a partir desses dados. Para isso, vamos responder a algumas perguntas importantes de negócio:
 
 ## Perguntas de Negócio
 
